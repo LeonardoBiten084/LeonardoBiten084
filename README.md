@@ -38,7 +38,7 @@
 
 ## 🌐 Onde me encontrar  
 
-🔗 [LinkedIn](https://www.linkedin.com/)  
+🔗 [LinkedIn](www.linkedin.com/in/leonardo-bitencourt-9020b9347)
 💻 [Meu Portfólio](https://github.com/LeonardoBitencourt084)  
 
 ---
