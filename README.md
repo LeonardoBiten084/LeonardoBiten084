@@ -5,6 +5,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Americana.  
 💡 Conheci a área em **2021**, quando iniciei o Ensino Médio integrado ao técnico em **Informática para Internet** na Etec Polivalente de Americana.  
 🚀 Atualmente, sigo expandindo meus conhecimentos em **desenvolvimento web, análise de dados e sistemas embarcados**.  
+📍 Vivo em Americana-SP.
 
 ---
 
@@ -29,8 +30,8 @@
 
 <div align="center">
   
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoBitencourt084&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBitencourt084&layout=compact&theme=tokyonight)  
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoBiten084&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBiten084&layout=compact&theme=tokyonight)  
 
 </div>
 
@@ -39,7 +40,7 @@
 ## 🌐 Onde me encontrar  
 
 🔗 [LinkedIn](www.linkedin.com/in/leonardo-bitencourt-9020b9347)
-💻 [Meu Portfólio](https://github.com/LeonardoBitencourt084)  
+💻 [Meu Portfólio](https://github.com/LeonardoBiten084)  
 
 ---
 ✨ *“Transformando linhas de código em soluções reais!”*  
