@@ -6,6 +6,7 @@
 💡 Conheci a área em **2021**, quando iniciei o Ensino Médio integrado ao técnico em **Informática para Internet** na Etec Polivalente de Americana.  
 🚀 Atualmente, sigo expandindo meus conhecimentos em **desenvolvimento web, análise de dados e sistemas embarcados**.  
 📍 Vivo em Americana-SP.
+💼 Estou estagiando na área de TI da Caterpillar na fábrica de Piracicaba-SP.
 
 ---
 
